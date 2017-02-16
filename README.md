@@ -80,7 +80,7 @@ Scanner sc=new Scanner(System.in);
 int a=sc.nextInt();   //number from user
 for(int i=1;i<=10;i++)
 {
-System.out.println(a+"X"+i+"="+(a*i));  //displays ist 10 multiples of a
+System.out.println(a+"x"+i+"="+(a*i));  //displays ist 10 multiples of a
 }
 }
 }
